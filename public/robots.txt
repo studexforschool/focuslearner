@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://focuslearner.vercel.app/sitemap.xml
